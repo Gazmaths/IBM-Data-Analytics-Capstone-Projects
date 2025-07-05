@@ -12,15 +12,15 @@ Stack Overflow Developer Survey data extraction
 GitHub Jobs API
 Dataset Techniques: Web Scraping, APIs (using Python requests)
 ## Data Preparation : 
-Data cleaning: Remove duplicates, handle missing values, normalize data
+Data cleaning: Remove duplicates, handle missing values, and normalize data
 Wrangling: Reshape and merge datasets for analysis
 ## Exploratory Data Analysis (EDA)
-Analyze distributions, detect outliers, explore correlations
+Analyze distributions, detect outliers, and explore correlations
 Tools: Python (Pandas, Matplotlib, Seaborn)Data
 ## Data Visualization
 Visualize distributions, relationships, and comparisons
 Create interactive dashboards to highlight trends and insights
 ## Dashboard Development
-IBM Cognos Dashboard Embedded (CDE) and Google Looker Studio used for final visualization and storytelling
-![image](https://github.com/user-attachments/assets/35bde962-9768-4674-8a83-d60d147ff311)
+IBM Cognos Dashboard Embedded (CDE) and Google Looker Studio were used for final visualization and storytelling
+
 
